@@ -67,7 +67,7 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 
 ### Running the Application
 ```bash
-python testing.py
+python utang_tracker.py
 ```
 
 ## 📱 Usage Guide
