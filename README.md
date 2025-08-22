@@ -164,8 +164,8 @@ python testing.py
 
 This application was developed by **John Allen Esteleydes**. For support, questions, or contributions:
 
-- **Email**: chelxiimusic@gmail.com
-- **YouTube**: [Chelxii Music](https://www.youtube.com/@Chelxiiii)
+- **Email**: esteleydesjohnallen0@gmail.com@gmail.com
+- **YouTube**: [Yakee](https://www.youtube.com/@mr.yakeee))
 
 ## 📄 License
 
@@ -182,4 +182,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Built with ❤️ by John Allen Esteleydes**
+**Built by John Allen Esteleydes**
