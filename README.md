@@ -164,8 +164,8 @@ python testing.py
 
 This application was developed by **John Allen Esteleydes**. For support, questions, or contributions:
 
-- **Email**: esteleydesjohnallen0@gmail.com@gmail.com
-- **YouTube**: [Yakee](https://www.youtube.com/@mr.yakeee))
+- **Email**: esteleydesjohnallen0@gmail.com
+- **YouTube**: [Yakee](https://www.youtube.com/@mr.yakeee)
 
 ## 📄 License
 
