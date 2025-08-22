@@ -1,4 +1,4 @@
-# 💰 Modern Utang Tracker Pro
+# 💰 Modern Utang Tracker V2.0
 
 A modern, feature-rich debt tracking application built with Python and CustomTkinter, designed to help you manage personal debt tracking efficiently.
 
