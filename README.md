@@ -2,6 +2,8 @@
 
 A modern, feature-rich debt tracking application built with Python and CustomTkinter, designed to help you manage personal debt tracking efficiently.
 
+---
+
 ## ✨ Features
 
 ### 🔐 User Management
@@ -52,6 +54,8 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 - **Card-based Design**: Modern card layout for debt entries
 - **Smooth Animations**: Professional feel with smooth transitions
 
+---
+
 ## 🚀 Installation
 
 ### Prerequisites
@@ -69,6 +73,8 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 ```bash
 python utang_tracker.py
 ```
+
+---
 
 ## 📱 Usage Guide
 
@@ -138,6 +144,8 @@ python utang_tracker.py
 - **tkcalendar**: Date picker widgets
 - **Pillow**: Image processing support
 
+---
+
 ## 🎨 Customization
 
 ### Themes
@@ -152,6 +160,8 @@ python utang_tracker.py
 - **Warning**: Orange for pending items (#FF9800)
 - **Info**: Blue for informational elements (#2196F3)
 
+---
+
 ## 📋 System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
@@ -160,12 +170,15 @@ python utang_tracker.py
 - **Storage**: 100MB free space
 - **Display**: 1200x800 minimum resolution
 
+---
+
 ## 🤝 Contributing
 
 This application was developed by **John Allen Esteleydes**. For support, questions, or contributions:
 
 - **Email**: esteleydesjohnallen0@gmail.com
 - **YouTube**: [Yakee](https://www.youtube.com/@mr.yakeee)
+- **Github**: [Yakeeeeee](https://github.com/Yakeeeeee)
 
 ## 📄 License
 
