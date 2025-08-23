@@ -73,6 +73,10 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 ```bash
 python utang_tracker.py
 ```
+or Go to dist folder and download:
+```
+   utang_tracker.exe
+```
 
 ---
 
