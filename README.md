@@ -58,24 +58,25 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 
 ## 🚀 Installation
 
-### Prerequisites
+### Option 1: Ready-to-Use EXE (Recommended for Windows Users)
+1. Download the latest `utang_tracker.exe` from the `dist` folder in this repository.
+2. Double-click `utang_tracker.exe` to launch the application—no Python installation required!
+
+### Option 2: Run from Source
+#### Prerequisites
 - Python 3.8 or higher
 - pip package manager
 
-### Setup
+#### Setup
 1. Clone or download the repository
 2. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-### Running the Application
+#### Running the Application
 ```bash
 python utang_tracker.py
-```
-or Go to dist folder and download:
-```
-   utang_tracker.exe
 ```
 
 ---
@@ -106,6 +107,8 @@ or Go to dist folder and download:
 3. **View Charts**: Analyze debt distribution and payment history
 4. **Export Data**: Download your data for external analysis
 
+---
+
 ## 🎯 Key Improvements
 
 ### UI/UX Enhancements
@@ -127,6 +130,8 @@ or Go to dist folder and download:
 - **Better Data Handling**: Improved CSV processing and validation
 - **Memory Management**: Proper cleanup of matplotlib resources
 - **Error Handling**: Comprehensive error messages and validation
+
+---
 
 ## 🔧 Technical Details
 
@@ -169,7 +174,7 @@ or Go to dist folder and download:
 ## 📋 System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
-- **Python Version**: 3.8 or higher
+- **Python Version**: 3.8 or higher (not needed for EXE)
 - **Memory**: 512MB RAM minimum
 - **Storage**: 100MB free space
 - **Display**: 1200x800 minimum resolution
