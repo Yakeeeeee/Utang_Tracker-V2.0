@@ -59,8 +59,19 @@ A modern, feature-rich debt tracking application built with Python and CustomTki
 ## 🚀 Installation
 
 ### Option 1: Ready-to-Use EXE (Recommended for Windows Users)
-1. Download the latest `utang_tracker.exe` from the `dist` folder in this repository.
-2. Double-click `utang_tracker.exe` to launch the application—no Python installation required!
+1. Download the `utang_tracker.exe`  from the `dist/` folder.
+2. Run the application by double-clicking:
+
+   ```bash
+   utang_tracker.exe
+   ```
+3. If Windows blocks the file:
+
+   * Right-click → **Properties** → **Unblock** → Run again.
+   * For logs, run the EXE via an elevated command prompt.
+
+✅ No Python installation required.
+
 
 ### Option 2: Run from Source
 #### Prerequisites
